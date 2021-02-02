@@ -1,0 +1,10 @@
+Cml
+
+Url: http://cmldev.net/
+Version: 1.0.4
+
+CHANGES
+
+cml/mathlib/vector_angle.h:57 - removed cast to silence warnings
+cml/mathlib/matrix_rotation.h:928,941 - cast to silence warnings
+cml/mathlib/quaternion_rotation.h:450 - fixed error for missing default constructor

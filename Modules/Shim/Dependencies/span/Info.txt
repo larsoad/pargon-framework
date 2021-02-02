@@ -1,0 +1,6 @@
+Name: span
+Version: 08cb4bf0e06c0e36f7e2b64e488ede711a8bb5ad
+License: Boost Software License 1.0
+Url: https://github.com/tcbrindle/span
+Changes:
+	- stripped unused build and test files

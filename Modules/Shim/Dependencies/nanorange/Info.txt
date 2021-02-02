@@ -1,0 +1,8 @@
+Name: NanoRange
+Version: 8a933b157e870a1dbdd69b664ac3b4d59ca062ac
+License: Boost Software License Version 1.0
+Url: https://github.com/tcbrindle/NanoRange
+Changes:
+	- stripped unused build and test files
+	- removed headers from sources in CMakeLists.txt
+	- commented building of benchmarks, tests, and tools in CMakeLists.txt

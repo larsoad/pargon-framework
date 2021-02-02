@@ -1,0 +1,7 @@
+Name: {fmt}
+Version: 6.1.2
+License: MIT
+Url: https://github.com/fmtlib/fmt
+Changes:
+	- stripped unused build and test files
+	- commented unused files from CMakeLists.txt
